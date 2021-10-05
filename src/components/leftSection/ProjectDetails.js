@@ -10,8 +10,8 @@ export default function ProjectDetails() {
                     <MediumText>Go to repo</MediumText>
                     <Icon src="github.png" />
                     </ProjectLink>
-                <ProjectLink href="https://github.com/benjamin-martinez/" target="_blank">
-                    <MediumText>Go to app</MediumText>
+                <ProjectLink href="http://supernova-virtual-designer-rfe.herokuapp.com/" target="_blank">
+                    <MediumText>Go to demo</MediumText>
                     <Icon src="react-logo.svg" />
                     </ProjectLink>
                 
