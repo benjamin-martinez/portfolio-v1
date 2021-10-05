@@ -14,7 +14,7 @@ export default function LeftSection({activeSide, handleBackToCenter}) {
             <ContentWrapper>
                 <ProjectsWrapper>
                     <ProfessionalProjects>
-                        <BodyIntro>Professional Projects</BodyIntro>
+                        <BodyIntro>Real-world Projects</BodyIntro>
                         <Projects>
                             <SupernovaProjectCard isEmpty={false}/>
                             <ProjectCard isEmpty={true}/>
